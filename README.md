@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=vaginessa&show_icons=true&hide_border=false&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaginessa&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaginessa&layout=compact&langs_count=10&theme=monokai)
