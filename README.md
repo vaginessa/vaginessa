@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **wireless stuff**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vaginessa&column=7&theme=onedark" />
 </div>
+
+##### 🔭 I’m currently working on _wireless stuff_
+##### 💬 Ask me about: *cats!*
 
 [![rtPWOc.jpg](https://i.im.ge/2022/05/09/rtPWOc.jpg)](https://im.ge/i/rtPWOc)
