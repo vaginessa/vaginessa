@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<img align="center" alt="JPG" src="https://i.im.ge/2022/05/09/rtieWY.jpg" />
+<img align="center" alt="JPG" heifht="250px" src="https://i.im.ge/2022/05/09/rtieWY.jpg" />
 
 
 +
