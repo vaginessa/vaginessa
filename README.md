@@ -22,9 +22,5 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=vaginessa&column=7&theme=onedark" />
 </div>
 
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-!(cats)[https://i.im.ge/2022/05/09/rtieWY.jpg]
-
-<img align="center" alt="GIF" height="250px" src="https://i.im.ge/2022/05/09/rtieWY.jpg" />
+[![rtPWOc.jpg](https://i.im.ge/2022/05/09/rtPWOc.jpg)](https://im.ge/i/rtPWOc)
 +
