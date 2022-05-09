@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallihallo an den Bildschirmen.. 
 
 <!--
 **vaginessa/vaginessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 </div>
 
 [![rtPWOc.jpg](https://i.im.ge/2022/05/09/rtPWOc.jpg)](https://im.ge/i/rtPWOc)
-
-[![rtPWOc.md.jpg](https://i.im.ge/2022/05/09/rtPWOc.md.jpg)](https://im.ge/i/rtPWOc)
