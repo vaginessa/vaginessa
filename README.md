@@ -1,8 +1,5 @@
 __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
 
-<!--
-**vaginessa/vaginessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=vaginessa&show_icons=true&hide_border=false&custom_title=uiuiui&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaginessa&layout=compact&langs_count=10&theme=monokai)
