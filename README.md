@@ -18,18 +18,15 @@
 
 ![uuuu](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
 
-*ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv*
 
 <p align="center">
 ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
 </p>
 
 <div align="center">
-ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
+aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
 </div>
 
-<center>
-*ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv*
-</center>
+               __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
 
 
