@@ -1,8 +1,6 @@
 
-### *ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv*
 
-
-
+------
 
 ### Hallihallo an den Bildschirmen.. 
 
@@ -18,9 +16,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
+
+
 -->
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=vaginessa&show_icons=true&hide_border=false&custom_title=uiuiui&theme=vue-dark)
@@ -38,3 +36,10 @@ Here are some ideas to get you started:
 ![uuuu](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
 
 *ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv*
+
+<p align="center">
+ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv</p>
+
+<div align="center">
+ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
+</div>
