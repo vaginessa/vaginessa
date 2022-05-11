@@ -8,7 +8,7 @@ __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
   <img src="https://github-profile-trophy.vercel.app/?username=vaginessa&column=7&theme=onedark" />
 </div>
 
-🔭 I’m currently working on _wireless stuff_
+
 ##### 💬 Ask me about: *cats!*
 
 [![rtPWOc.jpg](https://i.im.ge/2022/05/09/rtPWOc.jpg)](https://im.ge/i/rtPWOc)
