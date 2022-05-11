@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vaginessa&column=7&theme=onedark" />
 </div>
 
-##### 🔭 I’m currently working on _wireless stuff_
+🔭 I’m currently working on _wireless stuff_
 ##### 💬 Ask me about: *cats!*
 
 [![rtPWOc.jpg](https://i.im.ge/2022/05/09/rtPWOc.jpg)](https://im.ge/i/rtPWOc)
@@ -21,8 +21,15 @@
 *ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv*
 
 <p align="center">
-ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv</p>
+ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
+</p>
 
 <div align="center">
 ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
 </div>
+
+<center>
+*ꙅqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv*
+</center>
+
+
