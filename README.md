@@ -1,3 +1,6 @@
+![ninjamiepelz](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced.jpg)
+
+
 __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
 
 
@@ -10,8 +13,6 @@ __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
 
 
 ##### 💬 Ask me about: *cats!*
-
-![ui](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced.jpg)
 
 ![uuuu](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
 
