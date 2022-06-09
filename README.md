@@ -11,7 +11,7 @@ __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
 
 ##### 💬 Ask me about: *cats!*
 
-[![rtPWOc.jpg](https://i.im.ge/2022/05/09/rtPWOc.jpg)](https://im.ge/i/rtPWOc)
+![ui](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced.jpg)
 
 ![uuuu](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
 
