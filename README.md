@@ -1,4 +1,4 @@
-![ninjamiepelz](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced.jpg)
+![ninjamiepelz](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced2.jpg)
 
 
 __aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
