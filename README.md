@@ -1,13 +1,13 @@
 ![ninjamiepelz](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced2.jpg)
 
 
-__aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv__
+![werhaettedasgeahnt](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa.png)
 
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=vaginessa&show_icons=true&hide_border=false&custom_title=uiuiui&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaginessa&layout=compact&langs_count=10&theme=monokai)
 
-<div align="center">
+<div align="center">q
   <img src="https://github-profile-trophy.vercel.app/?username=vaginessa&column=7&theme=onedark" />
 </div>
 
