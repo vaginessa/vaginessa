@@ -2,6 +2,7 @@
 
 
 ![werhaettedasgeahnt](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa_1.png)
+(source: sourcerer.io / 09-2022)
 
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=vaginessa&show_icons=true&hide_border=false&custom_title=uiuiui&theme=vue-dark)
@@ -13,6 +14,10 @@
 
 
 ##### 💬 Ask me about: *cats!*
+##### 💻 I'm in the game since the C=64 8-Bit age..
+
+#### 💣 consider my 2 ninja team a mighty APT  🐾🐾🌀💣
+
 
 ![uuuu](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
 
