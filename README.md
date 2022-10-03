@@ -1,7 +1,7 @@
 ![ninjamiepelz](https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced2.jpg)
 
 
-![werhaettedasgeahnt](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa.png)
+![werhaettedasgeahnt](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa_1.png)
 
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=vaginessa&show_icons=true&hide_border=false&custom_title=uiuiui&theme=vue-dark)
