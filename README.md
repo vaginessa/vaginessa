@@ -2,6 +2,7 @@
 
 
 ![werhaettedasgeahnt](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa_1.png)
+
 (source: sourcerer.io / 09-2022)
 
 
@@ -14,9 +15,10 @@
 
 
 ##### 💬 Ask me about: *cats!*
+
 ##### 💻 I'm in the game since the C=64 8-Bit age..
 
-#### 💣 consider my 2 ninja team a mighty APT  🐾🐾🌀💣
+#### 💣 consider my 2 ninja team as *APT*, _seriosly_  🐾🐾🌀💣
 
 
 ![uuuu](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
