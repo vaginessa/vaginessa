@@ -1,11 +1,12 @@
-##  So whats that thing with the hats? - white-hat, grey-hat, black-hat... wtf?? I dont even own a hat and will surely never wear one..!
+##  So whats that thing with the hats? - white-hat, grey-hat, black-hat... wtf?? I dont even own a hat and will surely never wear one..! 
 
 #### 💬 Ask me about: *CATS!*
 
 #### 💻 I'm in the game since the C=64 8-Bit age..
 
+#### Creating stuff that works is satisfiyng, but the real fun is *breaking* stuff..🔥
 
-#### **i ❤️ GUI** - point-and-click is KING 👑 (...and fun!)
+#### **i ❤️ GUI** - for b3st UX point-and-click is KING 👑 (...and fun!)
 
 ## 💣 consider my team of 2 ninjas as an *APT*, _seriously_  🐾🐾
 
