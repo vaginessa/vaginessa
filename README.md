@@ -2,6 +2,8 @@
 
 #### 💬 Ask me about: *CATS!*
 
+#### **Don't confuse me with facts, i have a fixed opinion!**
+
 #### 💻 I'm in the game since the C=64 8-Bit age..
 
 #### Creating stuff that works is satisfiyng, but the real fun is *breaking* stuff..🔥
