@@ -1,4 +1,5 @@
-##  So whats that thing with the hats? - white-hat, grey-hat, black-hat... wtf?? I dont even own a hat and will surely never wear one..! 
+###  So whats that thing with your hats, hackers out there??? .... 
+**white-hat, grey-hat, black-hat... WTF?? I don't even own a hat and surely will never wear one! period.**
 
 #### 💬 Ask me about: *CATS!*
 
