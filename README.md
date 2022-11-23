@@ -52,7 +52,7 @@ source: https://metrics.lecoq.io/insights/vaginessa
 aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
 </div>
 
-
+![placeholder](https://github.com/vaginessa/vaginessa/blob/main/dummy_1x192_%23000000.png)
  
  
  
@@ -60,7 +60,7 @@ aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
  
  
   
- 
+
   
 
    
@@ -69,7 +69,7 @@ aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
 
    
 
- 
+
 
 
 
