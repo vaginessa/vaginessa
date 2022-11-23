@@ -13,7 +13,7 @@
 #### **Don't confuse me with facts, i have a fixed opinion!**
 
 ##### ☝️ the '*political correctness*' of the present time is absolutely deductible & disgusting. fu pc millennials! retarded fuckin' bloody dumbass bastards! i hereby (re)-declare the **WAR ON ERRORISM!** 💥 💣 💩 ☠️ 🤬 😡
-((uuh, ooh, how dare you 🤣))
+((uuh, ooh, how dare you? shame on you **vaginessa**!! that statement was really *not* political correct! 🤣))
 
 ## 💣 consider my team of 2 ninjas as an *APT*, _seriously_  🐾🐾
 
