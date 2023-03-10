@@ -1,3 +1,6 @@
+
+
+
 ###  So whats that thing with your hats, hackers out there??? .... 
 ..**white-hat, grey-hat, black-hat.. WTF?? I don't even own a hat and surely will never wear one! period.**
 
@@ -23,6 +26,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/vaginessa/count.svg)
 
+
+🆕 = 
+![Profile views](https://komarev.com/ghpvc/?username=vaginessa)  - 🗓️ 10.03.2023
+▪️
 
 
 ### How did the cat get so fat????
