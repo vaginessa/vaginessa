@@ -1,17 +1,17 @@
-7.7.23:
+**07.07.2023:**
 
-'''
-That feeling when you own your first 0day Explioit and you start thinking about _hats_ for the very first time... priceless.
-'''
-
-💥
-
-'''
-187 Strassenkatzen 🐾🐾 
-| we own the net | we rule worlds since we exist | we are the love | surrender to us 'cause we kill just for the **lulz** | meow!
-'''
+```
+That feeling when you own your first 0day Explioit and you start thinking
+ about _hats_ for the very first time... priceless.
+```
 
 💥
+
+```
+187 Strassenkatzen 🐾🐾 now equipped with D-weapons | fear us | we own the net |
+we mighty! | we rule worlds since we exist | surrender to us 'cause we kill just for the *lulz*
+```
+
 
 ------------
 
