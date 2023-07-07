@@ -1,4 +1,6 @@
-
+'''
+That feeling when you own your first 0day Explioit and you think about _hats_ the very first time... priceless.
+'''
 
 
 ###  So whats that thing with your hats, hackers out there??? .... 
