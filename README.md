@@ -12,6 +12,8 @@ That feeling when you own your first 0day Explioit and you start thinking
 we mighty! | we rule worlds since we exist | surrender to us 'cause we kill just for the *lulz*
 ```
 
+a big fu 2 all deserving it, you know who you are 👌.
+IF YOU$="are reading this" THEN DESERVE$="YES"
 
 ------------
 
