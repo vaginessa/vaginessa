@@ -1,10 +1,22 @@
+7.7.23:
+
 '''
-That feeling when you own your first 0day Explioit and you think about _hats_ the very first time... priceless.
+That feeling when you own your first 0day Explioit and you start thinking about _hats_ for the very first time... priceless.
 '''
 
+💥
+
+'''
+187 Strassenkatzen 🐾🐾 
+| we own the net | we rule worlds since we exist | we are the love | surrender to us 'cause we kill just for the **lulz** | meow!
+'''
+
+💥
+
+------------
 
 ###  So whats that thing with your hats, hackers out there??? .... 
-..**white-hat, grey-hat, black-hat.. WTF?? I don't even own a hat and surely will never wear one! period.**
+..**white-hat, grey-hat, black-hat.. WTF?? I don't even own a hat and surely will never wearp one! period.**
 
 ### 🐾 Ask me about: *CATS!* 🐈‍⬛ 🐈
 
