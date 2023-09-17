@@ -1,37 +1,3 @@
-**07.07.2023:**
-
-```
-That feeling when you own your first 0day Explioit and you start thinking
- about _hats_ for the very first time... priceless.
-```
-
-💥
-
-```
-187 Strassenkatzen 🐾🐾 now equipped with D-weapons | fear us | we own the net |
-we mighty! | we rule worlds since we exist | surrender to us 'cause we kill just for the *lulz*
-```
-
-
-------------
-
-###  So whats that thing with your hats, hackers out there??? .... 
-..**white-hat, grey-hat, black-hat.. WTF?? I don't even own a hat and surely will never wearp one! period.**
-
-### 🐾 Ask me about: *CATS!* 🐈‍⬛ 🐈
-
-### 💻 I'm in the game since the good old C=64 BASIC 8-Bit age.. 🖥️
-
-
-### Creating stuff that works is satisfiyng, but the real fun is *breaking* stuff..🔥
-
-### **I ❤️ GUI** - for b3st UX = point-and-click is *KING* 👑 (...and fun!)
-
-### **Don't confuse me with facts, i have a fixed opinion!**
-
-
-
-## 💣 consider my team of 2 ninjas as an *APT*, _seriously_  🐾🐾
 
 
 <p align="center">
