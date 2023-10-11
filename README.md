@@ -13,7 +13,7 @@
 
 
 ### How did the cat get so fat????
-![how_did_the_cat_get_so_FAT](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa_2.png)
+![how_did_the_cat_get_so_FAT](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa_3.png)
 
 <div align="center">
 source: https://metrics.lecoq.io/insights/vaginessa
