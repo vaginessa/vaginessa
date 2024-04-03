@@ -7,11 +7,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/vaginessa/count.svg)
 
 
-🆕 = 
-![Profile views](https://komarev.com/ghpvc/?username=vaginessa)  - 🗓️ 10.03.2023
-▪️
-
-
 ### How did the cat get so fat????
 ![how_did_the_cat_get_so_FAT](https://github.com/vaginessa/vaginessa/blob/main/github_vaginessa_69.png)
 
@@ -38,8 +33,9 @@ source: https://metrics.lecoq.io/insights/vaginessa
   <img src="https://github-profile-trophy.vercel.app/?username=vaginessa&column=7&theme=onedark" />
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=vaginessa)  since 10.03.2023
 
-
+  
 ![meeeeoow](https://github.com/blackcater/blackcater/raw/main/images/banner.gif)
 
 
