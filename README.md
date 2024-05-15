@@ -1,4 +1,4 @@
-
+![Metrics](https://metrics.lecoq.io/vaginessa?template=classic&repositories=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=false&config.timezone=Europe%2FBerlin&config.octicon=true)
 
 <p align="center">
   <img src="https://github.com/vaginessa/vaginessa/blob/main/ninjamiepelz_reduced2.jpg" />
@@ -48,7 +48,9 @@ aqovɘb ƚiǫ ɒꙅꙅɘᴎiǫɒv
 </div>
 
 ![placeholder](https://github.com/vaginessa/vaginessa/blob/main/dummy_1x192_%23000000.png)
- 
+
+
+ ![Metrics](https://metrics.lecoq.io/vaginessa?template=terminal&repositories=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&notable.self=false&config.timezone=Europe%2FBerlin&config.octicon=true)
  
  
  
